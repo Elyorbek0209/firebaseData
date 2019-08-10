@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "256901605705",
+    "firebase_url": "https://fir-data-be4e8.firebaseio.com",
+    "project_id": "fir-data-be4e8",
+    "storage_bucket": "fir-data-be4e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256901605705:android:7f788693d6f1031d",
+        "android_client_info": {
+          "package_name": "emsa.firebase_data"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256901605705-mtg0n9hkjitg2g82agj94qlgsqdpqakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "PASTE_API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256901605705-mtg0n9hkjitg2g82agj94qlgsqdpqakv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
